@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://thescalion137.github.io/csb-ctzrjw/static/css/main.1e0acdbb.chunk.css",
+    "main.js": "https://thescalion137.github.io/csb-ctzrjw/static/js/main.bf225f50.chunk.js",
+    "main.js.map": "https://thescalion137.github.io/csb-ctzrjw/static/js/main.bf225f50.chunk.js.map",
+    "runtime-main.js": "https://thescalion137.github.io/csb-ctzrjw/static/js/runtime-main.ef0b4089.js",
+    "runtime-main.js.map": "https://thescalion137.github.io/csb-ctzrjw/static/js/runtime-main.ef0b4089.js.map",
+    "static/css/2.613a34ed.chunk.css": "https://thescalion137.github.io/csb-ctzrjw/static/css/2.613a34ed.chunk.css",
+    "static/js/2.f7fe7002.chunk.js": "https://thescalion137.github.io/csb-ctzrjw/static/js/2.f7fe7002.chunk.js",
+    "static/js/2.f7fe7002.chunk.js.map": "https://thescalion137.github.io/csb-ctzrjw/static/js/2.f7fe7002.chunk.js.map",
+    "static/js/3.bd9e177c.chunk.js": "https://thescalion137.github.io/csb-ctzrjw/static/js/3.bd9e177c.chunk.js",
+    "static/js/3.bd9e177c.chunk.js.map": "https://thescalion137.github.io/csb-ctzrjw/static/js/3.bd9e177c.chunk.js.map",
+    "index.html": "https://thescalion137.github.io/csb-ctzrjw/index.html",
+    "static/css/2.613a34ed.chunk.css.map": "https://thescalion137.github.io/csb-ctzrjw/static/css/2.613a34ed.chunk.css.map",
+    "static/css/main.1e0acdbb.chunk.css.map": "https://thescalion137.github.io/csb-ctzrjw/static/css/main.1e0acdbb.chunk.css.map",
+    "static/js/2.f7fe7002.chunk.js.LICENSE.txt": "https://thescalion137.github.io/csb-ctzrjw/static/js/2.f7fe7002.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef0b4089.js",
+    "static/css/2.613a34ed.chunk.css",
+    "static/js/2.f7fe7002.chunk.js",
+    "static/css/main.1e0acdbb.chunk.css",
+    "static/js/main.bf225f50.chunk.js"
+  ]
+}
